@@ -7,7 +7,7 @@ pipeline {
 
     environment {
         VERSION = '1.1.0'
-        RELEASE_VERSION = 'R.2'
+        INT_VERSION = 'R.2'
     }
     stages {
 
